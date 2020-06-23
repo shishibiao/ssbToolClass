@@ -7,6 +7,7 @@
 //
 
 #import "SSBViewController.h"
+#import "Utility.h"
 
 @interface SSBViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [NSString getNowTimeTimestamp];
 }
 
 - (void)didReceiveMemoryWarning

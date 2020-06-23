@@ -1,0 +1,6 @@
+framework module ssbToolClass {
+  umbrella header "ssbToolClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

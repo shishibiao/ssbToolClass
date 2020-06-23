@@ -1,0 +1,6 @@
+framework module Pods_ssbToolClass_Example {
+  umbrella header "Pods-ssbToolClass_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

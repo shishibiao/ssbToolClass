@@ -1,0 +1,22 @@
+{
+  "name": "ssbToolClass",
+  "version": "0.0.1",
+  "summary": "这是一个各种分类、常用的方法公共组件",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shishibiao/ssbToolClass",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "apple": "348687529@q.com"
+  },
+  "source": {
+    "git": "https://github.com/shishibiao/ssbToolClass.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ssbToolClass/Classes/**/*"
+}

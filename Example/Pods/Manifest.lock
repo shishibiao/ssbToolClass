@@ -1,0 +1,16 @@
+PODS:
+  - ssbToolClass (0.0.1)
+
+DEPENDENCIES:
+  - ssbToolClass (from `../`)
+
+EXTERNAL SOURCES:
+  ssbToolClass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ssbToolClass: 4e3be8afbf40dd30f40e447b62f47f6e341185a9
+
+PODFILE CHECKSUM: f3dfdc6f9c345e3beddaa7d0b21a58844b2bde4e
+
+COCOAPODS: 1.9.0
